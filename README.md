@@ -23,7 +23,7 @@ Steps to run in local --------
 
 
 P.S - Avoid all the hardwork and enjoy the demo at the link below.
-     https://suprabh9999.github.io/peace
+     https://suprabh9999.github.io/peaceproject/
 
 
 Enjoy... 
