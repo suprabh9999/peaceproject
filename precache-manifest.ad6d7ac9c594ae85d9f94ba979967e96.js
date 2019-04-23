@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/peaceproject/static/css/main.bd306802.chunk.css"
   },
   {
-    "revision": "c13b4056df8189476c29c1adfd5bd624",
+    "revision": "4d9b0064988d120c269eed38aa843e25",
     "url": "/peaceproject/index.html"
   }
 ];

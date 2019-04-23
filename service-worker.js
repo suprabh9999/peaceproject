@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/peaceproject/precache-manifest.6f41998a9c944607f6b425b2720af361.js"
+  "/peaceproject/precache-manifest.ad6d7ac9c594ae85d9f94ba979967e96.js"
 );
 
 workbox.clientsClaim();
