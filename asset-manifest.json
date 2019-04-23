@@ -1,13 +1,13 @@
 {
-  "main.css": "/peaceproject/static/css/main.bd306802.chunk.css",
-  "main.js": "/peaceproject/static/js/main.d8be594a.chunk.js",
-  "main.js.map": "/peaceproject/static/js/main.d8be594a.chunk.js.map",
-  "runtime~main.js": "/peaceproject/static/js/runtime~main.92d9a30b.js",
-  "runtime~main.js.map": "/peaceproject/static/js/runtime~main.92d9a30b.js.map",
-  "static/js/2.23c5b749.chunk.js": "/peaceproject/static/js/2.23c5b749.chunk.js",
-  "static/js/2.23c5b749.chunk.js.map": "/peaceproject/static/js/2.23c5b749.chunk.js.map",
-  "index.html": "/peaceproject/index.html",
-  "precache-manifest.6f41998a9c944607f6b425b2720af361.js": "/peaceproject/precache-manifest.6f41998a9c944607f6b425b2720af361.js",
-  "service-worker.js": "/peaceproject/service-worker.js",
-  "static/css/main.bd306802.chunk.css.map": "/peaceproject/static/css/main.bd306802.chunk.css.map"
+  "main.css": "/static/css/main.bd306802.chunk.css",
+  "main.js": "/static/js/main.d7d79744.chunk.js",
+  "main.js.map": "/static/js/main.d7d79744.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.23c5b749.chunk.js": "/static/js/2.23c5b749.chunk.js",
+  "static/js/2.23c5b749.chunk.js.map": "/static/js/2.23c5b749.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.fce8d1b98acd4879d6866d7b14e9df2e.js": "/precache-manifest.fce8d1b98acd4879d6866d7b14e9df2e.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.bd306802.chunk.css.map": "/static/css/main.bd306802.chunk.css.map"
 }
