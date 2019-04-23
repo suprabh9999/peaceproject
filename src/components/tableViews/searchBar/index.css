@@ -1,0 +1,19 @@
+.searchContainer{
+    margin: 30px 0 40px 0; 
+    display: flex;
+}
+
+.searchInput{
+    display : block;
+    border : none;
+    border-bottom : 1px solid lightgrey; 
+    width: 300px; 
+}
+
+.paginationCount{
+    margin-left: 20px;
+}
+
+.searchInput:focus{
+    outline : none; 
+}

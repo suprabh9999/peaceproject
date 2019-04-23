@@ -1,0 +1,25 @@
+.navigatorContainer{
+    margin-top : 40px;
+    margin-bottom : 70px; 
+}
+
+.leftBtn{
+    float : left;
+}
+
+.rightBtn{
+    float : right;
+}
+
+.navigatorBtn{
+    border : 1px solid lightgray;
+    color : rgb(80, 164, 243);
+    background-color : white;
+    border-radius : 15px;
+    padding : 5px 10px;   
+    cursor : pointer; 
+    width : 74px;
+}
+.navigatorBtn:focus{
+    outline: none;
+}

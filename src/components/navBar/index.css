@@ -1,0 +1,15 @@
+.navBar{
+    background-color : rgb(80, 164, 243);
+    color : white;
+    padding: 8px 20px;
+}
+.burgerMenu{
+    cursor: pointer;
+}
+
+/* .burgerMenu{
+    width : 30px;
+    height : 3px;
+    background-color : white;
+    margin : 4px;
+} */

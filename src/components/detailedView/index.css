@@ -1,0 +1,25 @@
+.detailedViewContainer{
+    width : 95%;
+    margin : auto; 
+}
+
+.nameField {
+    padding : 0 15px;
+    font-weight : 400;
+}
+
+.valueField{
+    color : grey;
+}
+
+.personalDetail{
+    display : flex;
+    justify-content : space-between;
+    padding : 0 15px;
+    margin : 10px 0;    
+}
+
+.seperator{
+    height : 1px;
+    background-color : grey; 
+}
